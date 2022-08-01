@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Qazi Hamid Ullah
 - 👀 I’m interested in Embedded System Designs and Machine Learning.
 - 🌱 I’m currently doing my Bachelor's in Electrical Engineering from School of Electrical Engineering and Computer Science, NUST. I am also doing my minor degree in Computer Science from SEECS, NUST.
-- 💞️ I’m looking to collaborate on Embedded C codes for Microcotrollers and Machine Learning.
 - 📫 You can reach out to me through my LinkedIn account with the name Qazi Hamid Ullah or through my email qullah.bee20seecs@seecs.edu.pk
 
 <!---
